@@ -26,6 +26,7 @@ include "function/info.php";
 ?>
 
 <body>
+    <p>modifier and put in git</p>
     <!--main conteiner start-->
     <div class="main-container">
         <!--ASIDE start-->
